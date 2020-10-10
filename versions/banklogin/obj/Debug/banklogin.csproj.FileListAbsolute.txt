@@ -1,0 +1,13 @@
+C:\Users\sudhi manda\source\repos\banklogin\banklogin\bin\Debug\banklogin.exe.config
+C:\Users\sudhi manda\source\repos\banklogin\banklogin\bin\Debug\banklogin.exe
+C:\Users\sudhi manda\source\repos\banklogin\banklogin\bin\Debug\banklogin.pdb
+C:\Users\sudhi manda\source\repos\banklogin\banklogin\obj\Debug\banklogin.csprojAssemblyReference.cache
+C:\Users\sudhi manda\source\repos\banklogin\banklogin\obj\Debug\banklogin.Form1.resources
+C:\Users\sudhi manda\source\repos\banklogin\banklogin\obj\Debug\banklogin.Properties.Resources.resources
+C:\Users\sudhi manda\source\repos\banklogin\banklogin\obj\Debug\banklogin.csproj.GenerateResource.cache
+C:\Users\sudhi manda\source\repos\banklogin\banklogin\obj\Debug\banklogin.exe
+C:\Users\sudhi manda\source\repos\banklogin\banklogin\obj\Debug\banklogin.pdb
+C:\Users\sudhi manda\source\repos\banklogin\banklogin\obj\Debug\banklogin.cust.resources
+C:\Users\sudhi manda\source\repos\banklogin\banklogin\obj\Debug\banklogin.progress.resources
+C:\Users\sudhi manda\source\repos\banklogin\banklogin\obj\Debug\banklogin.emp.resources
+C:\Users\sudhi manda\source\repos\banklogin\banklogin\obj\Debug\banklogin.newacc.resources
